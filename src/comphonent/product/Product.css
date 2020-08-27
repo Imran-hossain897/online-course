@@ -1,0 +1,14 @@
+
+.container img{
+    height: 150px;
+    width: 250px;
+}
+.container{
+    display: flex;
+    box-shadow: 5px 5px 10px gray;
+    margin: 10px;
+    padding: 20px;
+}
+.icon{
+    color: goldenrod;
+}
